@@ -32,6 +32,8 @@ class players_card():
 
         return self.lst
 
+        
+
 
             
 

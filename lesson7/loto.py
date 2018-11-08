@@ -55,3 +55,5 @@ if comp == 0:
 elif play == 0:
     print("Вы выйграли! ")
 
+
+
